@@ -1,10 +1,10 @@
-##𝐌𝐲 𝐬𝐤𝐢𝐥𝐥𝐬 𝐚𝐧𝐝 𝐤𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞:
+𝐌𝐲 𝐬𝐤𝐢𝐥𝐥𝐬 𝐚𝐧𝐝 𝐤𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞:
 - Java 8 + Spring Boot 2
 - SQL
 - JS + Angular 4
 - CSS/SCSS + Bootstrap Grid System
 
-##𝐀𝐩𝐩𝐬:
+𝐀𝐩𝐩𝐬:
 - Postman
 - Intellij IDEA
 - Eclipse IDE
@@ -12,6 +12,6 @@
 - MySQL Workbench
 - PostgreSQL
 
-##𝐎𝐒:
+𝐎𝐒:
 - Windows
 - Linux
