@@ -1,7 +1,7 @@
 𝐌𝐲 𝐬𝐤𝐢𝐥𝐥𝐬 𝐚𝐧𝐝 𝐤𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞:
-- Java 8 + Spring Boot 2
+- Java 8 + Spring Boot
 - SQL
-- JS + Angular 4
+- JS + Angular
 - CSS/SCSS + Bootstrap Grid System
 
 𝐀𝐩𝐩𝐬:
