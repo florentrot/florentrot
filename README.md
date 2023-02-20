@@ -4,7 +4,7 @@
 - MongoDB
 - JS + Angular
 - CSS/SCSS + Bootstrap Grid System
-- Git, GitHub Bitbuket, Jira
+- Git, GitHub, Bitbuket, Jira
 
 𝐀𝐩𝐩𝐬:
 - Postman
