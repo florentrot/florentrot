@@ -10,7 +10,7 @@
 - Postman
 - Intellij IDEA
 - VS Code
-- -Oracle SQL Developer
+- Oracle SQL Developer
 - MySQL Workbench
 - PostgreSQL
 - Studio 3T
