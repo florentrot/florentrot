@@ -1,8 +1,8 @@
 𝐌𝐲 𝐬𝐤𝐢𝐥𝐥𝐬 𝐚𝐧𝐝 𝐤𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞:
+- JS/TS + Angular
 - Java + Spring Boot
 - MySQL
 - MongoDB
-- JS + Angular
 - CSS/SCSS + Bootstrap Grid System
 - Git, GitHub, Bitbuket, Jira
 
