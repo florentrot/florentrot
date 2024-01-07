@@ -1,5 +1,5 @@
 This is my last project, in progress. Here are a lot of things which I learned. I did it from scratch and I asked two friends to join to finish it together.
-Until now it's only my work on master, but soon they will start to push code on it.
+They also started to add code on it. So now it is our project.
 https://github.com/florentrot/full-stack-app
 
 𝐌𝐲 𝐬𝐤𝐢𝐥𝐥𝐬 𝐚𝐧𝐝 𝐤𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞:
