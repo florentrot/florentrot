@@ -1,6 +1,5 @@
-This is my last project, in progress. Here are a lot of things which I learned. I did it from scratch and I asked two friends to join to finish it together.
-One of them also started to add code on it. So now it is our project.
-https://github.com/florentrot/full-stack-app
+Just a simple CRUD API with ExceptionHandler, Swagger, simple mapper, repository, DTO, entity, MySQL db connection.
+https://github.com/florentrot/furniture_app
 
 𝐌𝐲 𝐬𝐤𝐢𝐥𝐥𝐬 𝐚𝐧𝐝 𝐤𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞:
 - JS/TS + Angular
