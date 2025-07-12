@@ -1,13 +1,14 @@
 Just a simple CRUD API with ExceptionHandler, Swagger, simple mapper, repository, DTO, entity, MySQL db connection.
+https://github.com/florentrot/full-stack-app
 https://github.com/florentrot/furniture_app
 
 𝐌𝐲 𝐬𝐤𝐢𝐥𝐥𝐬 𝐚𝐧𝐝 𝐤𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞:
-- JS/TS + Angular
-- Java + Spring Boot
+- TS + Angular
+- Java + Spring
 - MySQL
-- MongoDB
 - CSS/SCSS + Bootstrap Grid System
 - Git, GitHub, Bitbuket, Jira
+- Wordpress
 
 𝐀𝐩𝐩𝐬:
 - Postman
@@ -15,7 +16,6 @@ https://github.com/florentrot/furniture_app
 - VS Code
 - Oracle SQL Developer
 - MySQL Workbench
-- PostgreSQL
 - Studio 3T
 
 𝐎𝐒:
