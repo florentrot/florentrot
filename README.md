@@ -12,9 +12,9 @@ A complete full-stack application designed and developed from the ground up.
 - Basic mapping logic (manual/simple mapper)
 - MySQL integration using Spring Data JPA
 
-### 💻 Frontend Features (Angular/React/etc. — specifică ce ai folosit):
-- [exemplu dacă e Angular] Responsive UI built with Angular
-- Consumes the REST API from the backend
+### 💻 Frontend Features (Angular):
+- Responsive UI built with Angular
+- Consumes the APIs from the backend
 - Routing and component-based architecture
 
 ---
@@ -22,7 +22,7 @@ A complete full-stack application designed and developed from the ground up.
 ✅ This project helped me reinforce core concepts like:
 - Spring Boot architecture (Beans, Services, Repositories)
 - DTO <-> Entity mapping
-- Connecting frontend with a secure backend API
+- Connecting frontend with a secure backend API using JWT
 
 ---
 
